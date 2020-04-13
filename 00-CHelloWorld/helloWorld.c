@@ -2,11 +2,11 @@
 #include <stdio.h>
 #include <string.h>
 
-/* Qué: Pablo Sayago
+/* Pablo Sayago
  * Descripción: Demostrar con, un programa simple, que se está en capacidad de editar,
    compilar, y ejecutar un programa C.
- * Quiénes: Pablo Sayago
- * Cuando: 13/04/2020
+ * Pablo Sayago
+ * 13/04/2020
  */
 
 void main(){
