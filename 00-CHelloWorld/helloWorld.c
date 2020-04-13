@@ -3,8 +3,8 @@
 #include <string.h>
 
 /* Pablo Sayago
- * Descripción: Demostrar con, un programa simple, que se está en capacidad de editar,
-   compilar, y ejecutar un programa C.
+ * Descripción: Demostrar con un programa simple que se está en capacidad de editar,
+   compilar y ejecutar un programa C.
  * Pablo Sayago
  * 13/04/2020
  */
