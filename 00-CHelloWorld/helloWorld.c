@@ -13,12 +13,12 @@ void main(){
     char cadena[10];
     strcpy(cadena,"Hola mundo");
     printf("%s",&cadena);
-    guadarCadena(cadena);
+    guardarCadena(cadena);
 }
 
 
 
-void guadarCadena(char *texto){
+void guardarCadena(char *texto){
     FILE *fpuntero;
     char rutaArchivo[] = "output.txt";
     fpuntero= fopen(rutaArchivo,"w");
